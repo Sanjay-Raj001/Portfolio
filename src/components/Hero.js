@@ -7,7 +7,7 @@ import { DiJavascript1, DiReact, DiNodejsSmall, DiHtml5, DiCss3, DiBootstrap, Di
 import { SiTypescript } from "react-icons/si";
 import { SiPostman } from "react-icons/si";
 import { SiSelenium } from "react-icons/si";
-import Resume from '../assets/pdf/SanjayRaj_Resume.pdf';
+import Resume from '../assets/pdf/Sanjay-Raj-Resume.pdf';
 
 function Hero() {
     return (
