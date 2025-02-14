@@ -69,7 +69,7 @@ function Hero() {
                             className='z-10 cursor-pointer font-bold primary-color md:w-auto p-4 border 
                              rounded-xl'
                             href="/SANJAY RAJ.pdf"  // Path to your CV in the public folder
-                            download="SANJAY RAJ.pdf"  // The name of the downloaded file
+                            download="SANJAY_RAJ.pdf"  // The name of the downloaded file
                         >
                             Download CV
                         </motion.a>
