@@ -16,7 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={
           <>
-            <Navbar/>g
+            <Navbar/>
             <Hero/>
             <About/>
             <Projects/>
